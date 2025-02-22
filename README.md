@@ -1,40 +1,39 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-<!--
-**tuhlopuz1/tuhlopuz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div style="display: flex; justify-content: center; margin: 20px;">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=TUHLOPUZ" alt="Изображение 1" width="100%">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuhlopuz1)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhlopuz1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: center; margin: 20px;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tuhlopuz1" alt="Изображение 1" width="100%">
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuhlopuz1)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: center; margin: 20px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhlopuz1&layout=compact" alt="Изображение 1" width="100%">
+</div>
 
-[![codewars](https://www.codewars.com/users/tuhlopuz1/badges/large)](https://www.codewars.com/tuhlopuz1/username)
+<div style="display: flex; justify-content: center; margin: 20px;">
+<img src="https://github-readme-stats.vercel.app/api?username=tuhlopuz1" alt="Изображение 1" width="100%">
+</div>
 
-Карточка профиля: 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuhlopuz1&theme=solarized_dark)
+<div style="display: flex; justify-content: center; margin: 20px;">
+<img src="https://www.codewars.com/users/tuhlopuz1/badges/large" alt="Изображение 1" width="100%">
+</div>
 
-Статистика языков в коммитах:
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuhlopuz1&theme=solarized_dark)
+<div style="display: flex; justify-content: center; margin: 20px;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuhlopuz1&theme=solarized_dark" alt="Изображение 1" width="100%">
+</div>
 
-Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuhlopuz1&theme=solarized_dark)
-
-Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tuhlopuz1&theme=solarized_dark)
-
-Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<div style="display: flex; justify-content: center; margin: 0px;">
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuhlopuz1&theme=solarized_dark" alt="Изображение 1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tuhlopuz1&theme=solarized_dark" alt="Изображение 2" ></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark" alt="Изображение 2" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuhlopuz1&theme=solarized_dark" alt="Изображение 1" ></td>
+  </tr>
+</table>
+</div>
