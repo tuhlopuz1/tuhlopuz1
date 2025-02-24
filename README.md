@@ -1,26 +1,12 @@
-<h1 align="center">Привет! 👋 Я TUHLOPUZ</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=TUHLOPUZ" alt="Typing SVG">
-</p>
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tuhlopuz1@gmail.com)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tuhlopuz1)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuhlopuz1" alt="GitHub Streak Stats" width="32%">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuhlopuz1" alt="GitHub Stats" width="32%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhlopuz1&layout=compact" alt="Top Languages" width="32%">
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tuhlopuz1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tuhlopuz1&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhlopuz1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://www.codewars.com/users/tuhlopuz1/badges/large" alt="Codewars Badge" width="48%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuhlopuz1&theme=solarized_dark" alt="Profile Details" width="48%">
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuhlopuz1&theme=solarized_dark" alt="Most Commit Language" width="32%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tuhlopuz1&theme=solarized_dark" alt="Stats" width="32%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark" alt="Productive Time" width="32%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuhlopuz1&theme=solarized_dark" alt="Repos Per Language" width="48%">
-</p>
