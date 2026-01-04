@@ -1,3 +1,19 @@
+# 👋 Hello, I'm tuhlopuz1
+
+**High School Student from Russia** | **Full-Stack Developer** | **Data Science Enthusiast**
+
+I'm a passionate developer building backend and frontend applications while diving deep into the world of data science and machine learning. Constantly learning and competing in hackathons to push my skills further.
+
+## 🏆 Achievements
+
+- **🏆 Prize-winner Data Analysis National Olympiad 2025**  
+  *Achieved maximum score in the project stage with my team*
+- **🥇 1st Place, MEPHI Nuclear IT Hack**
+- **🥉 3st Place, DANO Hackathon Moscow 2025**
+- **🥉 3st Place, DANO Hackathon Nizhny Novgorod 2025**
+- **🥉 3st Place, L2SH x CU Hackathon 2025**
+
+---
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tuhlopuz1@gmail.com)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tuhlopuz1)
@@ -44,13 +60,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=tuhlopuz1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tuhlopuz1&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhlopuz1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
-
-
-
-
-
-
