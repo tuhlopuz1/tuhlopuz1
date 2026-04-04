@@ -6,8 +6,8 @@ I'm a passionate developer building backend and frontend applications while divi
 
 ## 🏆 Achievements
 
-- **🏆 Prize-winner International software Engineering Olympiad PROD 2026**
-  *One of the best 3 teams on the project stage*
+- **🏆 Prize-winner International Software Engineering Olympiad PROD 2026**
+  *One of the top 3 teams on the project stage*
 - **🏆 Prize-winner Data Analysis National Olympiad 2025**  
   *Achieved maximum score in the project stage with my team*
 - **🥇 1st Place, MEPHI Nuclear IT Hack 2025**
