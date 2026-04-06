@@ -6,7 +6,7 @@ I'm a passionate developer building backend and frontend applications while divi
 
 ## 🏆 Achievements
 
-- **🏆 Prize-winner International Software Engineering Olympiad PROD 2026**
+- **🏆 Prize-winner International Software Engineering Olympiad PROD 2026**  
   *One of the top 3 teams on the project stage*
 - **🏆 Prize-winner Data Analysis National Olympiad 2025**  
   *Achieved maximum score in the project stage with my team*
@@ -18,7 +18,7 @@ I'm a passionate developer building backend and frontend applications while divi
 ---
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tuhlopuz1@gmail.com)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tuhlopuz1)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tuhlopuz1@gmail.com)
 
 # 💻 Tech Stack:
 
